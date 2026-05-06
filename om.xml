@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="kiran.css"?>
+<?xml-stylesheet type="text/css" href="om.css"?>
 
 <college>
     
 	<student>
-		<name>Kiran WAGHMODE </name>
+		<name>om sawant</name>
 		<gender>Male</gender>
 		<age> 20 </age>
 		<course> Computer  Engineering</course>
